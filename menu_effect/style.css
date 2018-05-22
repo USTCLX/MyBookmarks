@@ -1,0 +1,196 @@
+/* 全局匹配 */
+*{padding: 0;margin: 0;}
+ul{
+    list-style: none;
+}
+a  {
+    text-decoration:none;
+}
+/*添加字体*/
+@font-face {
+    font-family:chensy;
+    src: url('../font/LigatureSymbols.eot');
+    src: url('../font/LigatureSymbols.svg');
+    src: url('../font/LigatureSymbols.ttf');
+    src: url('../font/LigatureSymbols.woff');
+}
+/*给按钮设置总样式*/
+div{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    cursor: pointer;
+    opacity: 0.9;
+    top: 300px;
+    transition: all 0.5s ease;
+}
+/*设置按钮hover样式*/
+div:hover{
+    transform: scale(1.2,1.2);
+    opacity: 1;
+    box-shadow: 5px 5px 3px grey;
+}
+/*给每一个按钮设置样式*/
+#div1{
+    border: solid 5px #549e89;
+    color: #4d9683;
+    background-color: #0DC492;
+    left: 33%;
+    z-index: 0;
+    animation: move1 7s 1 ease;
+}
+#div1:hover{
+    z-index: 10;
+    border-color: #0a8462;
+    color: #0a8462;
+}
+#div2{
+    border: solid 5px #e499b0;
+    color: #be607e;
+    background-color: #eb5a86;
+    left: 39%;
+    z-index: 1;
+    animation: move2 6s 1 ease;
+}
+#div2:hover{
+    z-index: 10;
+    border-color:#b12a55;
+    color: #b12a55;
+}
+#div3{
+    border: solid 5px #a2cfde;
+    color: #5E9EB4;
+    background-color: #5ec4e6;
+    left: 45%;
+    z-index: 2;
+    animation: move3 5s 1 ease;
+}
+#div3:hover{
+    z-index: 10;
+    border-color: #2883a2;
+    color: #2883a2;
+}
+#div4{
+    border: solid 5px #dcc999;
+    color: #BA9D5E;
+    background-color: #f8c956;
+    left: 51%;
+    z-index: 3;
+    animation: move4 4s 1 ease;
+}
+#div4:hover{
+    z-index: 10;
+    border-color: #ab8228;
+    color: #ab8228;
+}
+#div5{
+    border: solid 5px #d8abcd;
+    color: #B468A2;
+    background-color: #df77c6;
+    left:57%;
+    z-index: 4;
+    animation: move5 3s 1 ease;
+}
+#div5:hover{
+    z-index: 10;
+    border-color: #a33689;
+    color: #a33689;
+}
+/*按钮内部字体样式*/
+div ul {
+    margin-top: 20px;
+    text-align: center;
+    font-family: chensy;
+    font-size: 10px;
+    font-weight: 600;
+}
+div ul li:first-child{
+    font-size: 45px;
+}
+/*按钮动画*/
+@keyframes move5{
+    0%{
+        left:-100px;
+    }
+    90%{
+        left: 55%;
+        transform: scale(1.1,1.1);
+    }
+    95%{
+        left: 56%;
+        transform: scale(1.2,1.2);
+    }
+    100%{
+        left: 57%;
+        transform: scale(1,1);
+    }
+}
+@keyframes move4{
+    0%{
+        left:-100px;
+    }
+    90%{
+        left: 49%;
+        transform: scale(1.1,1.1);
+    }
+    95%{
+        left: 50%;
+        transform: scale(1.2,1.2);
+    }
+    100%{
+        left: 51%;
+        transform: scale(1,1);
+    }
+}
+@keyframes move3{
+    0%{
+        left:-100px;
+    }
+    90%{
+        left: 43%;
+        transform: scale(1.1,1.1);
+    }
+    95%{
+        left: 44%;
+        transform: scale(1.2,1.2);
+    }
+    100%{
+        left: 45%;
+        transform: scale(1,1);
+    }
+}
+@keyframes move2{
+    0%{
+        left:-100px;
+    }
+    90%{
+        left: 37%;
+        transform: scale(1.1,1.1);
+    }
+    95%{
+        left: 38%;
+        transform: scale(1.2,1.2);
+    }
+    100%{
+        left: 39%;
+        transform: scale(1,1);
+    }
+}
+@keyframes move1{
+    0%{
+        left:-100px;
+    }
+    90%{
+        left: 31%;
+        transform: scale(1.1,1.1);
+    }
+    95%{
+        left: 32%;
+        transform: scale(1.2,1.2);
+    }
+    100%{
+        left: 33%;
+        transform: scale(1,1);
+    }
+}
