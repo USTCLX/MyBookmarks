@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+	<style type="text/css" media="screen">
+		.switch-button{
+			margin:0 auto;
+			position: relative;
+			background: #008CEE;
+			width: 38px;
+			height: 20px;
+			cursor: pointer;
+
+			-webkit-border-radius:10px;
+			-moz-border-radius:10px;
+			border-radius: 10px;
+
+			-webkit-transition:background-color 0.5s ease-in-out 0s;
+			-moz-transition:background-color 0.5s ease-in-out 0s;
+			transition:background-color 0.5s ease-in-out 0s;
+
+			-webkit-box-shadow:inset 2px 0 2px 1px rgba(0,0,0,0.1);
+			-moz-box-shadow:inset 2px 0 2px 1px rgba(0,0,0,0.1);
+			box-shadow:inset 2px 0 2px 1px rgba(0,0,0,0.1);
+
+		}
+
+		.switch-button .switch-flag{
+			display: block;
+			position: absolute;
+			width:20px;
+			height: 20px;
+			left:18px;
+			background: #fff;
+
+			-webkit-border-radius:10px;
+			-moz-border-radius:10px;
+			border-radius: 10px;
+
+			-webkit-transition:left 0.2s ease-in-out 0s;
+			-moz-transition:left 0.2s ease-in-out 0s;
+			transition: left 0.2s ease-in-out 0s;
+
+			-webkit-box-shadow:1px 0 1px 1px rgba(0, 0, 0, 0.3);
+			-moz-box-shadow:1px 0 1px 1px rgba(0,0,0,0.3);
+			box-shadow: 1px 0 1px 1px rgba(0,0,0,0.3);
+
+		}
+
+		.switch-button-close{
+			background:#eee;
+		}
+
+		.switch-button-close .switch-flag{
+			left:0px;
+		}
+	</style>
+	<script type="text/javascript" charset="utf-8">
+		window.onload = function(){
+			var btn = document.getElementById('btn');
+			btn.addEventListener('click',function(){
+				className =  this.className;
+				if(className==='switch-button'){
+					this.className = 'switch-button'+' '+'switch-button-close'
+				}else{
+					this.className = 'switch-button'
+				}
+			})
+		}
+	</script>
+</head>
+<body>
+	<div id='btn' class="switch-button"><span class="switch-flag"></span></div>
+</body>
+</html>
