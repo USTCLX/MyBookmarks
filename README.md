@@ -1,8 +1,6 @@
 # 各类在线资源
 
 
----
-
 ## 工具类 ##
 
  - 在线markdown编辑器  
@@ -39,3 +37,9 @@
  https://github.com/mqyqingfeng/Blog/
  - eloquentjavascript电子书  
  http://eloquentjavascript.net/
+ 
+ ## Vue ##
+ - Vue技术内幕  
+ https://github.com/mqyqingfeng/Blog/
+  - Vue技术技术揭秘  by huangyi 
+ https://ustbhuangyi.github.io/vue-analysis/
