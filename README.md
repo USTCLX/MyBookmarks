@@ -47,5 +47,5 @@
  ## Vue ##
  - Vue技术内幕  
  https://github.com/mqyqingfeng/Blog/
-  - Vue技术技术揭秘  by huangyi 
+  - Vue技术技术揭秘  by huangyi   
  https://ustbhuangyi.github.io/vue-analysis/
