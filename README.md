@@ -13,23 +13,28 @@
     https://caniuse.com/
  - 微软正版软件下载  
     https://msdn.itellyou.cn/
+    
 
 ## CSS效果 ##
 
  - CSS加载特效  
     http://tobiasahlin.com/spinkit/  
     https://connoratherton.com/loaders/
+    
 
-## 网页模版 ##
+## 网页设计 ##
 
  - 免费的网页模版  
  https://templated.co/
-
+ - 网页设计指导-常见设计错误篇  
+ http://blog-en.tilda.cc/articles-website-design-mistakes
+ 
 
 ## Nodejs ##
 
  - 大神的node教程  
  https://github.com/nswbmw/N-blog/
+ 
 
 ## JavaScript ##
 
@@ -37,6 +42,7 @@
  https://github.com/mqyqingfeng/Blog/
  - eloquentjavascript电子书  
  http://eloquentjavascript.net/
+ 
  
  ## Vue ##
  - Vue技术内幕  
