@@ -49,3 +49,9 @@
  https://github.com/mqyqingfeng/Blog/
   - Vue技术技术揭秘  by huangyi   
  https://ustbhuangyi.github.io/vue-analysis/
+ 
+ 
+  ## C语言 ##
+  - 华为C语言编写规范  
+  https://ilcc.gitbooks.io/wiki/content/StyleGuide/Huawei-C/index.html
+ 
