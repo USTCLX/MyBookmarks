@@ -28,6 +28,8 @@
  https://templated.co/
  - 网页设计指导-常见设计错误篇  
  http://blog-en.tilda.cc/articles-website-design-mistakes
+ - 七个web UI设计技巧，假装会一点UI设计  
+ https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
  
 
 ## Nodejs ##
