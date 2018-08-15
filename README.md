@@ -56,4 +56,8 @@
   ## C语言 ##
   - 华为C语言编写规范  
   https://ilcc.gitbooks.io/wiki/content/StyleGuide/Huawei-C/index.html
+  
+  ## 个人博客 ##
+  - 编程不识阮近南，就称极客也枉然  
+  http://www.ruanyifeng.com/home.html
  
