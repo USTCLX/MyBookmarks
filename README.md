@@ -53,14 +53,17 @@
  https://ustbhuangyi.github.io/vue-analysis/
  
  
-  ## C语言 ##
+## Puppeteer ##  
+- Puppeteer  爬虫教程  
+https://github.com/csbun/thal
+ 
+ 
+## C语言 ##
   - 华为C语言编写规范  
   https://ilcc.gitbooks.io/wiki/content/StyleGuide/Huawei-C/index.html
   
-  ## 个人博客 ##
-  - 编程不识阮近南，就称极客也枉然  
-  http://www.ruanyifeng.com/home.html
+  
+## 个人博客 ##
+- 编程不识阮近南，就称极客也枉然  
+http://www.ruanyifeng.com/home.html
  
-  ## 其他书籍 ##
-  - 阿里技术  职业发展黄金手册  
-http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1530517140411/Codelife.pdf?Expires=1534393171&OSSAccessKeyId=LTAIAJ2WBIdlRPlb&Signature=n4yNtg5W4W0CHeZBQlg8GepxyBg%3D&utm_source=wechat_session&utm_medium=social&utm_oi=37890352480256
