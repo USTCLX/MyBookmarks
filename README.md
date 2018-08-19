@@ -36,6 +36,8 @@
 
  - 大神的node教程  
  https://github.com/nswbmw/N-blog/
+ - 深入理解node  
+ https://yjhjstz.gitbooks.io/deep-into-node/content/
  
 
 ## JavaScript ##
