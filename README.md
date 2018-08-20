@@ -13,6 +13,8 @@
     https://caniuse.com/
  - 微软正版软件下载  
     https://msdn.itellyou.cn/
+ - Linux命令大全  
+    http://man.linuxde.net/
     
 
 ## CSS效果 ##
