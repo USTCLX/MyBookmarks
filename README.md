@@ -70,4 +70,13 @@ https://github.com/csbun/thal
 ## 个人博客 ##
 - 编程不识阮近南，就称极客也枉然  
 http://www.ruanyifeng.com/home.html
+
+## 科技与开发者社区 ##
+- 思否  
+https://segmentfault.com/
+- 掘金  
+https://juejin.im/
+- 36Kr  
+http://36kr.com/
+
  
