@@ -70,6 +70,9 @@ https://github.com/csbun/thal
 ## 个人博客 ##
 - 编程不识阮近南，就称极客也枉然  
 http://www.ruanyifeng.com/home.html
+- 这波能反杀的简书--一些js文章写的很棒  
+https://www.jianshu.com/u/10ae59f49b13
+
 
 ## 科技与开发者社区 ##
 - 思否  
