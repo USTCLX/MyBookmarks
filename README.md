@@ -60,7 +60,9 @@
 ## Puppeteer ##  
 - Puppeteer  爬虫教程  
 https://github.com/csbun/thal
- 
+- webscraper chrome插件爬虫  
+https://www.jianshu.com/p/cd5124ac0871
+
  
 ## C语言 ##
   - 华为C语言编写规范  
