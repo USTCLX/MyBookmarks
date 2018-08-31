@@ -17,8 +17,10 @@
     http://man.linuxde.net/
     
 
-## CSS效果 ##
+## CSS ##
 
+ - 百度FEX CSS编码规范  
+    https://github.com/fex-team/styleguide/blob/master/css.md
  - CSS加载特效  
     http://tobiasahlin.com/spinkit/  
     https://connoratherton.com/loaders/
@@ -82,4 +84,6 @@ https://juejin.im/
 - 36Kr  
 http://36kr.com/
 
- 
+## 开源仓库的好东西 ##
+- 百度FEX 学院  
+https://github.com/fex-team/fex-edu
