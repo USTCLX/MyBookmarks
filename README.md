@@ -87,3 +87,8 @@ http://36kr.com/
 ## 开源仓库的好东西 ##
 - 百度FEX 学院  
 https://github.com/fex-team/fex-edu
+
+## 其他 ##
+- Ruff 用javascript来开发嵌入式物联网应用吧（虽然可能为时尚早） 
+http://ruff.io
+
