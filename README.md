@@ -91,4 +91,6 @@ https://github.com/fex-team/fex-edu
 ## 其他 ##
 - Ruff 用javascript来开发嵌入式物联网应用吧（虽然可能为时尚早）  
 http://ruff.io
+- Hollywood Effect 有趣的linux terminal工具，让你的界面像好莱坞大片里的黑客电脑一样，并且伴有碟中谍的经典音乐  
+https://itsfoss.com/hollywood-hacker-screen/
 
