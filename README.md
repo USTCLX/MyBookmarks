@@ -15,6 +15,8 @@
     https://msdn.itellyou.cn/
  - Linux命令大全  
     http://man.linuxde.net/
+ - CSS Sprites Generator   
+    https://www.toptal.com/developers/css/sprite-generator
     
 
 ## CSS ##
