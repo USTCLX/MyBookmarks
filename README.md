@@ -81,6 +81,13 @@ http://www.ruanyifeng.com/home.html
 https://www.jianshu.com/u/10ae59f49b13
 
 
+## 性能优化 ##
+- 雅虎前端性能优化33条军规  
+https://www.cnblogs.com/xianyulaodi/p/5755079.html
+- 网站性能优化实战——从12.67s到1.06s的故事  
+https://mp.weixin.qq.com/s/zD7rc_t0-1yXD6DyJsMxUQ
+
+
 ## 科技与开发者社区 ##
 - 思否  
 https://segmentfault.com/
