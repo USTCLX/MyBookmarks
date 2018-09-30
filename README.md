@@ -20,7 +20,9 @@
  - 将SVG文件转化成CSS   
     https://icomoon.io/  
  - WebP格式生成器  
-    https://www.upyun.com/webp
+    https://www.upyun.com/webp  
+ - 免费CDN加速（常用的库都有哦）   
+    https://www.bootcdn.cn/
 
 ## CSS ##
 
