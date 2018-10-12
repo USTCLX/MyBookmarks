@@ -107,4 +107,6 @@ https://github.com/fex-team/fex-edu
 http://ruff.io
 - Hollywood Effect 有趣的linux terminal工具，让你的界面像好莱坞大片里的黑客电脑一样，并且伴有碟中谍的经典音乐  
 https://itsfoss.com/hollywood-hacker-screen/
+- 一个神奇的网站  
+https://bestofjs.org
 
